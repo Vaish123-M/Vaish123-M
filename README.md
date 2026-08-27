@@ -49,15 +49,15 @@
 
 ## 📊 My GitHub Analytics
 
-<!-- Daily Contribution Activity Bar Graph (High Uptime) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish123-M&theme=github-compact&bg_color=0D1117&color=58A6FF&line=F75C7E&point=FFFFFF&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://img.shields.io/badge/GitHub-Vaish123--M-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Public_Repos-4-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Profile_Views-Active-brightgreen?style=for-the-badge" />
 </p>
 
-<!-- Commit Streak & Stats (Cached Fallback) -->
+<!-- Native Contribution Graph via Activity-Graph (High Performance CDN) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish123-M&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaish123-M&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish123-M&theme=github-compact&bg_color=0D1117&color=58A6FF&line=F75C7E&point=FFFFFF&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </p>
 
 <!-- Stats Card & Commits Time Distribution Graph -->
