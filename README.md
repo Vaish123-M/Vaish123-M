@@ -62,24 +62,17 @@
 - Served as **President of Unstop Igniters Club and Muktangan Club**, leading student initiatives, coordinating teams, and organizing technical and social activities.
 
 ---
-
 ## 📌 Featured Projects
 
-* **IntelliCredit → AI Credit Risk Platform**  
-  An AI-driven credit risk assessment and intelligent financial analytics platform designed to automate loan evaluation, analyze applicant risk profiles, and deliver actionable insights for smart decision-making.  
-  👉 [[🔗 Repo](https://github.com/Vaish123-M/IntelliCredit)]
+| Project Name | Description | Repo Link |
+| :--- | :--- | :---: |
+| **IntelliCredit** | AI-driven credit risk assessment and intelligent financial analytics platform designed to automate loan evaluation, analyze applicant risk profiles, and deliver actionable insights for smart decision-making. | [🔗 Repo](https://github.com/Vaish123-M/IntelliCredit) |
+| **Magical Eye** | Computer vision and AI-powered project built during the Enduraverse Hackathon, utilizing real-time image recognition and object tracking capabilities to solve accessibility challenges. | [🔗 Repo](https://github.com/Vaish123-M/Magical-Eye) |
+| **TalentSync AI** | Smart AI hiring and talent intelligence platform that streamlines candidate matching, automated resume screening, and skill verification to improve recruitment workflows. | [🔗 Repo](https://github.com/Vaish123-M/TalentSync-AI-Platform) |
+| **Hospital EMR ETL** | End-to-end Python ETL prototype designed to extract raw, unstructured Excel-based Electronic Medical Records (EMR), transform data models, and load them into a clean, normalized SQL database structure. | [🔗 Repo](https://github.com/Vaish123-M/Hospital-EMR-ETL-Prototype) |
 
-* **Magical Eye → Computer Vision Assistant**  
-  A computer vision and AI-powered project built during the Enduraverse Hackathon, utilizing real-time image recognition and object tracking capabilities to solve accessibility challenges.  
-  👉 [[🔗 Repo](https://github.com/Vaish123-M/Magical-Eye)]
 
-* **TalentSync AI → Smart Hiring Platform**  
-  A smart AI hiring and talent intelligence platform that streamlines candidate matching, automated resume screening, and skill verification to improve recruitment workflows.  
-  👉 [[🔗 Repo](https://github.com/Vaish123-M/TalentSync-AI-Platform)]
 
-* **Hospital EMR ETL → Healthcare Data Pipeline**  
-  An end-to-end Python ETL prototype designed to extract raw, unstructured Excel-based Electronic Medical Records (EMR), transform data models, and load them into a clean, normalized SQL database structure.  
-  👉 [[🔗 Repo](https://github.com/Vaish123-M/Hospital-EMR-ETL-Prototype)]
 
 ---
 
