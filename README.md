@@ -49,15 +49,15 @@
 
 ## 📊 My GitHub Analytics
 
-<!-- Profile Summary Top Card -->
+<!-- Reliable Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaish123-M&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish123-M&theme=github-compact&bg_color=0D1117&color=58A6FF&line=F75C7E&point=FFFFFF&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </p>
 
-<!-- Top Languages: By Repo vs By Commit -->
+<!-- Top Languages Chart (Fallback Enabled) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true" alt="Top Languages by Repo" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Top Languages by Commit" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish123-M&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <!-- Stats Card & Commits Time Distribution Graph -->
