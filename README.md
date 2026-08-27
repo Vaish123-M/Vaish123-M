@@ -50,7 +50,7 @@
 ## 🏆 Achievements
 
 → **🥈 Runner-up — IIT Madras Makethon:**
-- Developed *EasyLift Grasper*, an assistive mechanical gripper designed to make object handling easier, securing **2nd place and a ₹25,000 prize**.
+- Developed *EasyLift Grasper*, an assistive mechanical gripper designed to make object handling easier, securing **2nd place**.
 
 → **🥇 Winner — Space Innovation Challenge, VNIT Nagpur:**
 - Won the innovation challenge by developing and presenting a technology-driven solution focused on solving a real-world space-related problem.
