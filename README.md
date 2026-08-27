@@ -16,7 +16,7 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaishnavi-mamulkar-33a06a21a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vaishmamulkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/@VAISHNAVIM_2005"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://pinterest.com/vaishmamulkar"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
@@ -48,9 +48,22 @@
 ---
 
 ## 📊 My GitHub Analytics
+
+<!-- Profile Summary Top Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaish123-M&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaish123-M&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
+</p>
+
+<!-- Top Languages: By Repo vs By Commit -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Top Languages by Commit" width="49%" />
+</p>
+
+<!-- Stats Card & Commits Time Distribution Graph -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaish123-M&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-time-line?username=Vaish123-M&theme=github_dark" alt="Commits Time Distribution" width="49%" />
 </p>
 
 ---
