@@ -1,18 +1,91 @@
-## Hi there 👋
-# 💫 About Me:
-👋 Hi, I’m Vaishnavi Mamulkar, a Computer Engineering student and tech enthusiast who enjoys building projects, solving problems, and exploring emerging technologies. I’m passionate about learning by doing, participating in hackathons and competitions, and continuously improving my skills through real-world applications and hands-on experience.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-mamulkar-33a06a21a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vaishmamulkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VAISHNAVIM_2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishmamulkar@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vaish123-M&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vaish123-M&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- TYPING SVGS HEADER -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vcenter=true&width=435&lines=Computer+Engineering+Student;AI%2FML+%26+Tech+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vaish123-M&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 💫 About Me
+- 🎓 **Education:** Computer Engineering student & tech enthusiast.
+- 💡 **Interests:** Building practical projects, solving problems, exploring emerging technologies, and participating in hackathons.
+- 🚀 **Goals:** Continuously learning by doing and improving skills through real-world applications and hands-on experience.
+
+---
+
+## 🌐 Socials
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaishnavi-mamulkar-33a06a21a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vaishmamulkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/@VAISHNAVIM_2005"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://pinterest.com/vaishmamulkar"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 📊 My GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaish123-M&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Repo Link |
+| :--- | :--- | :---: |
+| **Hospital EMR ETL Prototype** | Prototype for converting Excel-based EMR data into a normalized SQL database using Python ETL. | [🔗 Repo](https://github.com/Vaish123-M/hospital-emr-etl-prototype) |
+| **NPS Retirement Intelligence** | Predictive retirement corpus and pension forecasting tool built using React and Tailwind. | [🔗 Repo](https://github.com/Vaish123-M/nps-retirement-intelligence) |
+| **Smart Hiring Platform** | Smart hiring and talent intelligence platform. | [🔗 Repo](https://github.com/Vaish123-M/smart-hiring-platform) |
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaish123-M&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🖥️ Terminal Mode
+```bash
+> whoami
+Vaishnavi Mamulkar | Computer Engineering Student
+
+> pwd
+~ /interests/tech-and-development
+
+> ls
+Full-Stack-Dev/
+AI-ML/
+Hackathons/
+Open-Source/
+
+> cat goals.txt
+Build practical, scalable applications.
+Solve real-world engineering problems.
+Continuously improve technical skills.
