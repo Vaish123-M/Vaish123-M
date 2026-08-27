@@ -46,21 +46,26 @@
 </p>
 
 ---
+
 ## 📊 My GitHub Analytics
 
-<!-- Native Badges (Always Visible) -->
+<!-- Profile Summary Top Card -->
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Vaish123--M-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Public_Repos-4-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Status-Active_Developer-brightgreen?style=for-the-badge" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaish123-M&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
 </p>
 
-<!-- Green Contribution Activity Bar Graph -->
+<!-- Top Languages: By Repo vs By Commit -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish123-M&theme=github-green-black&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Top Languages by Commit" width="49%" />
 </p>
 
-  
+<!-- Stats Card & Commits Time Distribution Graph -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaish123-M&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-time-line?username=Vaish123-M&theme=github_dark" alt="Commits Time Distribution" width="49%" />
+</p>
+
 ---
 
 ## 📌 Featured Projects
