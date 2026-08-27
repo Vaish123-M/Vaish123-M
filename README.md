@@ -49,13 +49,14 @@
 
 ## 📊 My GitHub Analytics
 
+<!-- Native Badges (100% Uptime Guaranteed) -->
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Vaish123--M-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Public_Repos-4-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Profile_Views-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active_Developer-brightgreen?style=for-the-badge" />
 </p>
 
-<!-- Native Contribution Graph via Activity-Graph (High Performance CDN) -->
+<!-- Lightweight Activity Graph (Bypasses API rate limits) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish123-M&theme=github-compact&bg_color=0D1117&color=58A6FF&line=F75C7E&point=FFFFFF&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </p>
