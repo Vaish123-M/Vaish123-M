@@ -1,7 +1,7 @@
 <!-- TYPING SVGS HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vcenter=true&width=450&lines=Hey+%F0%9F%90%8B+I'm+Vaishnavi+Mamulkar;Computer+Engineering+Student;AI%2FML+%26+Tech+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vcenter=true&width=480&lines=Hey+%F0%9F%90%8B+I'm+Vaishnavi+Mamulkar;Computer+Engineering+Student;AI%2FML+%26+Tech+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,10 +16,10 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaishnavi-mamulkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vaishnavi-mamulkar-33a06a21a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vaishmamulkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/@VAISHNAVIM_2005"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://pinterest.com/vaishmamulkar"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 </p>
 
 ---
@@ -58,9 +58,10 @@
 ## 📌 Featured Projects
 | Project | Description | Repo Link |
 | :--- | :--- | :---: |
+| **IntelliCredit** | AI-driven credit risk assessment and intelligent financial analytics platform. | [🔗 Repo](https://github.com/Vaish123-M/intelli-credit) |
+| **Magical Eye** | Computer vision and AI-powered project built during the Enduraverse Hackathon. | [🔗 Repo](https://github.com/Vaish123-M/magical-eye-enduraverse) |
+| **TalentSync AI Platform** | Smart AI hiring, candidate matching, and talent intelligence platform. | [🔗 Repo](https://github.com/Vaish123-M/talentsync-ai-platform) |
 | **Hospital EMR ETL Prototype** | Prototype for converting Excel-based EMR data into a normalized SQL database using Python ETL. | [🔗 Repo](https://github.com/Vaish123-M/hospital-emr-etl-prototype) |
-| **NPS Retirement Intelligence** | Predictive retirement corpus and pension forecasting tool built using React and Tailwind. | [🔗 Repo](https://github.com/Vaish123-M/nps-retirement-intelligence) |
-| **Smart Hiring Platform** | Smart hiring and talent intelligence platform. | [🔗 Repo](https://github.com/Vaish123-M/smart-hiring-platform) |
 
 ---
 
