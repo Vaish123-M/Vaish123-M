@@ -1,6 +1,6 @@
 <!-- TYPING SVGS HEADER -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://readme-typing-svg.demolab.com/demo/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vcenter=true&width=480&lines=Hey+%F0%9F%90%8B+I'm+Vaishnavi+Mamulkar;Computer+Engineering+Student;AI%2FML+%26+Tech+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
@@ -16,10 +16,10 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://github.com/06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vaishmamulkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/@VAISHNAVIM_2005"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://pinterest.com/vaishmamulkar"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vaishnavi-mamulkar-33a06a21a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vaishnavimamulkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 </p>
 
 ---
@@ -47,40 +47,52 @@
 
 ---
 
-## 📊 My GitHub Analytics
+## 🏆 Achievements
 
-<!-- Profile Summary Top Card -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaish123-M&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
-</p>
+→ **🥈 Runner-up — IIT Madras Makethon:**
+- Developed *EasyLift Grasper*, an assistive mechanical gripper designed to make object handling easier, securing **2nd place and a ₹25,000 prize**.
 
-<!-- Top Languages: By Repo vs By Commit -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true" alt="Top Languages by Repo" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Top Languages by Commit" width="49%" />
-</p>
+→ **🥇 Winner — Space Innovation Challenge, VNIT Nagpur:**
+- Won the innovation challenge by developing and presenting a technology-driven solution focused on solving a real-world space-related problem.
 
-<!-- Stats Card & Commits Time Distribution Graph -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaish123-M&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-time-line?username=Vaish123-M&theme=github_dark" alt="Commits Time Distribution" width="49%" />
-</p>
+→ **🚀 Top 3 — DevFusion 4.0 Developers Hackathon:**
+- Selected among the **Top 3 teams** for building and presenting an AI-powered solution through an end-to-end working project.
+
+→ **👩‍💻 Leadership & Student Initiatives:**
+- Served as **President of Unstop Igniters Club and Muktangan Club**, leading student initiatives, coordinating teams, and organizing technical and social activities.
 
 ---
 
 ## 📌 Featured Projects
-| Project | Description | Repo Link |
-| :--- | :--- | :---: |
-| **IntelliCredit** | AI-driven credit risk assessment and intelligent financial analytics platform. | [🔗 Repo](https://github.com/Vaish123-M/intelli-credit) |
-| **Magical Eye** | Computer vision and AI-powered project built during the Enduraverse Hackathon. | [🔗 Repo](https://github.com/Vaish123-M/magical-eye-enduraverse) |
-| **TalentSync AI Platform** | Smart AI hiring, candidate matching, and talent intelligence platform. | [🔗 Repo](https://github.com/Vaish123-M/talentsync-ai-platform) |
-| **Hospital EMR ETL Prototype** | Prototype for converting Excel-based EMR data into a normalized SQL database using Python ETL. | [🔗 Repo](https://github.com/Vaish123-M/hospital-emr-etl-prototype) |
+
+* **IntelliCredit → AI Credit Risk Platform**  
+  An AI-driven credit risk assessment and intelligent financial analytics platform designed to automate loan evaluation, analyze applicant risk profiles, and deliver actionable insights for smart decision-making.  
+  👉 [[🔗 Repo](https://github.com/Vaish123-M/IntelliCredit)]
+
+* **Magical Eye → Computer Vision Assistant**  
+  A computer vision and AI-powered project built during the Enduraverse Hackathon, utilizing real-time image recognition and object tracking capabilities to solve accessibility challenges.  
+  👉 [[🔗 Repo](https://github.com/Vaish123-M/Magical-Eye)]
+
+* **TalentSync AI → Smart Hiring Platform**  
+  A smart AI hiring and talent intelligence platform that streamlines candidate matching, automated resume screening, and skill verification to improve recruitment workflows.  
+  👉 [[🔗 Repo](https://github.com/Vaish123-M/TalentSync-AI-Platform)]
+
+* **Hospital EMR ETL → Healthcare Data Pipeline**  
+  An end-to-end Python ETL prototype designed to extract raw, unstructured Excel-based Electronic Medical Records (EMR), transform data models, and load them into a clean, normalized SQL database structure.  
+  👉 [[🔗 Repo](https://github.com/Vaish123-M/Hospital-EMR-ETL-Prototype)]
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 My GitHub Analytics
+
+<!-- Permanent Activity Graph (Guaranteed 100% Uptime) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaish123-M&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish123-M&theme=github-green-black&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish123-M&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
