@@ -49,15 +49,15 @@
 
 ## 📊 My GitHub Analytics
 
-<!-- Reliable Contribution Activity Graph -->
+<!-- Daily Contribution Activity Bar Graph (High Uptime) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish123-M&theme=github-compact&bg_color=0D1117&color=58A6FF&line=F75C7E&point=FFFFFF&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </p>
 
-<!-- Top Languages Chart (Fallback Enabled) -->
+<!-- Commit Streak & Stats (Cached Fallback) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish123-M&layout=donut&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish123-M&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish123-M&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaish123-M&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
 </p>
 
 <!-- Stats Card & Commits Time Distribution Graph -->
