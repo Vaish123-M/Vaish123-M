@@ -80,12 +80,12 @@
 
 <!-- Permanent Activity Graph (Guaranteed 100% Uptime) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish123-M&theme=github-green-black&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish123-M&theme=github-green-black&hide_border=true&v=1" alt="Contribution Activity Graph" width="100%" />
 </p>
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish123-M&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="80%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish123-M&theme=dark&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
